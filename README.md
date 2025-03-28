@@ -11,3 +11,5 @@ Contiene las siguientes carpetas :
   - `ejercicio-sensei` : Ejercicio propuesto por el sensei en clase.
 - `clase-03-20` : Estructuras de Datos
   - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Gestión de Lista de Compras".
+- `clase-03-25` : Métodos de Arreglos
+  - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Filtro y Orden de Productos de una Tienda Online".
