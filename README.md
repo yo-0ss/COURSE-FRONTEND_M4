@@ -13,3 +13,5 @@ Contiene las siguientes carpetas :
   - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Gestión de Lista de Compras".
 - `clase-03-25` : Métodos de Arreglos
   - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Filtro y Orden de Productos de una Tienda Online".
+- `clase-03-25` : Algoritmo de Los 2 Punteros
+  - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Encuentra los Invitados que Pueden Sentarse Juntos".
