@@ -15,3 +15,6 @@ Contiene las siguientes carpetas :
   - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Filtro y Orden de Productos de una Tienda Online".
 - `clase-03-25` : Algoritmo de Los 2 Punteros
   - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Encuentra los Invitados que Pueden Sentarse Juntos".
+- `clase-04-01` : Algoritmo Sliding Window
+  - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Encontrar la Palabra Más Larga".
+  
