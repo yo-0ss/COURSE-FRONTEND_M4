@@ -17,4 +17,6 @@ Contiene las siguientes carpetas :
   - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Encuentra los Invitados que Pueden Sentarse Juntos".
 - `clase-04-01` : Algoritmo Sliding Window
   - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Encontrar la Palabra Más Larga".
+- `clase-04-03` : Recursion y backtracking
+  - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Buscar un objeto en una lista de regalos".
   
