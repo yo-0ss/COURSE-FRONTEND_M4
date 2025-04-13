@@ -21,4 +21,4 @@ Contiene las siguientes carpetas :
   - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Buscar un objeto en una lista de regalos".
 - `clase-04-08` : Divide y Vencerás
   - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Búsqueda del Máximo en un Arreglo con Divide and Conquer".
-  
+- `clase-04-10` : Ejercicios vistos en clase.
