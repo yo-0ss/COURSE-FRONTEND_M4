@@ -2,6 +2,10 @@
 
 En este repositorio podras encontrar los proyectos que fuí creando durante el cuarto modulo de mi curso frontend.
 
+## 💬 Proyecto Final: "Gestor de Notas Personales"
+
+En este proyecto desarrollé una aplicación en Node.js para gestionar notas personales. Me basé en un ejemplo proporcionado por DEV.F, al cual realicé mejoras, como la implementación de una validación para evitar la duplicación de notas, con el objetivo de mejorar su funcionalidad.
+
 ## 📑 Estructura
 
 Contiene las siguientes carpetas :
@@ -22,3 +26,4 @@ Contiene las siguientes carpetas :
 - `clase-04-08` : Divide y Vencerás
   - `ejercicio-devf` : Ejercicio propuesto por Dev.F "Búsqueda del Máximo en un Arreglo con Divide and Conquer".
 - `clase-04-10` : Ejercicios vistos en clase.
+- `Proyecto-Final` : Proyecto Final: "Gestor de Notas Personales"

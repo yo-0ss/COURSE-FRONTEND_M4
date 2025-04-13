@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "main": "gestorNotas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node gestorNotas.js"
+  },
+  "keywords": [],
+  "author": "Yosselin Ríos",
+  "license": "ISC",
+  "description": "Prayecto final del Modulo 4 'Gestor de Notas Personales'"
+}
